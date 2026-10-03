@@ -1,0 +1,6 @@
+.venv/
+Original/
+Preprocessed/
+Segmented/
+__pycache__/
+*.zip
